@@ -1,0 +1,133 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+#center {
+    display: inline-block;
+    margin: 0 auto;
+    position: absolute;
+    right: 45%;
+    border-bottom: solid black 2px;
+    margin-bottom: 3%;
+}
+
+#nakijkveld {
+    position: absolute;
+    left: 55%;
+    border-bottom: solid black 2px;
+
+}
+
+.CC{
+    position: absolute;
+    display: inline-block;
+    flex-direction: row;
+    bottom: 2%;
+    left: 35%;
+}
+
+.SpeelVeld {
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: 250px;
+    align-self: center;
+    align-content: center;
+    align-items: center;
+}
+
+.bols{
+    flex-direction: column;
+    background-color: White;
+    width: 50px;
+    height: 50px;
+    margin-left: 5px;
+    margin-bottom: 5px;
+    border: solid 1px black;
+    border-radius: 50px;
+}
+
+.Color{
+    height: 50px;
+    width: 50px;
+    border-radius: 10px;
+    margin-top: 10px;
+    margin-left: 4px;
+    background-color: black;
+}
+
+#color1{
+    background-color: red;
+    border-color: red;
+}
+#color2{
+    background-color: orange;
+    border-color: orange;
+
+}
+#color3{
+    background-color:yellow;
+    border-color: yellow;
+
+}
+#color4{
+    background-color: green;
+    border-color: green;
+
+}
+#color5{
+    background-color: blue;
+    border-color: blue;
+
+}
+#color6 {
+    background-color: purple;
+    border-color: purple;
+
+}
+#color7 {
+    background-color: White;
+    border-color: White;
+
+}
+.color{
+    display: inline-block;
+    height: 50px;
+    width: 50px;
+    border-radius: 50px;
+    margin-top: 10px;
+    margin-left: 4px;
+}
+
+#colorr {
+    background-color: red;
+}
+
+.nakijkBol {
+    width: 23px;
+    height: 23px;
+    border-radius: 50px;
+    border-color: black;
+    border: 1px solid;
+    flex-direction: row;
+    background-color: grey;
+}
+
+.nakijkVierkant{
+
+
+    margin-bottom: 14%;
+    flex-wrap: wrap;
+    width: 50px;
+    display: flex;
+}
+
+#check{
+    position: absolute;
+    bottom: 30px;
+    left: 62%;
+}
+
+#spelregels{
+    position: absolute;
+}

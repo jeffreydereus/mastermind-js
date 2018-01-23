@@ -1,3 +1,4 @@
+
 ## Mastermind Javascript
 Tijdens deze opdracht ga je het spel Mastermind programmeren in de web browser. Hierbij maak je gebruik van HTML, CSS en Javascript.
 
